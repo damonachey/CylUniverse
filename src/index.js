@@ -1,12 +1,10 @@
-import "./styles.css";
+import { Game } from "./game.js";
+import { Canvas } from "./canvas.js";
+import { Cyl } from "./cyl.js";
 
-import { Game } from "./game";
-import { Canvas } from "./canvas";
-import { Cyl } from "./cyl";
-
-import { Utilities } from "./utilities";
-import { Numerics } from "./numerics";
-import { Geometry } from "./geometry";
+import { Utilities } from "./utilities.js";
+import { Numerics } from "./numerics.js";
+import { Geometry } from "./geometry.js";
 
 function observe(cyl) {}
 

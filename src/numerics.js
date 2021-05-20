@@ -1,4 +1,4 @@
-// this code ported from C# System.Numerics.Quanternion and System.Numerics.Vector3
+// this code ported from C# System.Numerics.Quaternion and System.Numerics.Vector3
 
 export const Numerics = {
   quaternionFromAxisAngle(axis, angle) {

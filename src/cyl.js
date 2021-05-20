@@ -1,4 +1,4 @@
-import { Utilities } from "./utilities";
+import { Utilities } from "./utilities.js";
 
 export const Cyl = {
   id: 0,
